@@ -1,0 +1,1863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="FILTER_RESOLVED_ITEMS" value="false" />
+    <option name="SHOW_DIFF_WITH_PREVIOUS_RUN" value="true" />
+    <option name="SHOW_ONLY_DIFF" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="273962f2-c0fe-4884-ae0a-122f1997cce1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/001-home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/001-home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/002-home2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/002-home2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/003-home3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/003-home3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/004-office.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/004-office.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/005-newspaper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/005-newspaper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/006-pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/006-pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/007-pencil2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/007-pencil2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/008-quill.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/008-quill.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/009-pen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/009-pen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/010-blog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/010-blog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/011-eyedropper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/011-eyedropper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/012-droplet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/012-droplet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/013-paint-format.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/013-paint-format.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/014-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/014-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/015-images.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/015-images.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/016-camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/016-camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/017-headphones.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/017-headphones.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/018-music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/018-music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/019-play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/019-play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/020-film.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/020-film.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/021-video-camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/021-video-camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/022-dice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/022-dice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/023-pacman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/023-pacman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/024-spades.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/024-spades.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/025-clubs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/025-clubs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/026-diamonds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/026-diamonds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/027-bullhorn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/027-bullhorn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/028-connection.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/028-connection.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/029-podcast.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/029-podcast.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/030-feed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/030-feed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/031-mic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/031-mic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/032-book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/032-book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/033-books.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/033-books.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/034-library.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/034-library.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/035-file-text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/035-file-text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/036-profile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/036-profile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/037-file-empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/037-file-empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/038-files-empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/038-files-empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/039-file-text2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/039-file-text2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/040-file-picture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/040-file-picture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/041-file-music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/041-file-music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/042-file-play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/042-file-play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/043-file-video.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/043-file-video.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/044-file-zip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/044-file-zip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/045-copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/045-copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/046-paste.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/046-paste.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/047-stack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/047-stack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/048-folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/048-folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/049-folder-open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/049-folder-open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/050-folder-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/050-folder-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/051-folder-minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/051-folder-minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/052-folder-download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/052-folder-download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/053-folder-upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/053-folder-upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/054-price-tag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/054-price-tag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/055-price-tags.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/055-price-tags.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/056-barcode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/056-barcode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/057-qrcode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/057-qrcode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/058-ticket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/058-ticket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/059-cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/059-cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/060-coin-dollar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/060-coin-dollar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/061-coin-euro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/061-coin-euro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/062-coin-pound.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/062-coin-pound.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/063-coin-yen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/063-coin-yen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/064-credit-card.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/064-credit-card.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/065-calculator.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/065-calculator.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/066-lifebuoy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/066-lifebuoy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/067-phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/067-phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/068-phone-hang-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/068-phone-hang-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/069-address-book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/069-address-book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/070-envelop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/070-envelop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/071-pushpin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/071-pushpin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/072-location.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/072-location.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/073-location2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/073-location2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/074-compass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/074-compass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/075-compass2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/075-compass2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/076-map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/076-map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/077-map2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/077-map2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/078-history.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/078-history.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/079-clock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/079-clock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/080-clock2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/080-clock2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/081-alarm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/081-alarm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/082-bell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/082-bell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/083-stopwatch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/083-stopwatch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/084-calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/084-calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/085-printer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/085-printer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/086-keyboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/086-keyboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/087-display.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/087-display.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/088-laptop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/088-laptop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/089-mobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/089-mobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/090-mobile2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/090-mobile2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/091-tablet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/091-tablet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/092-tv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/092-tv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/093-drawer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/093-drawer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/094-drawer2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/094-drawer2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/095-box-add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/095-box-add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/096-box-remove.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/096-box-remove.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/097-download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/097-download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/098-upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/098-upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/099-floppy-disk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/099-floppy-disk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/100-drive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/100-drive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/101-database.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/101-database.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/102-undo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/102-undo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/103-redo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/103-redo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/104-undo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/104-undo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/105-redo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/105-redo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/106-forward.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/106-forward.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/107-reply.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/107-reply.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/108-bubble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/108-bubble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/109-bubbles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/109-bubbles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/110-bubbles2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/110-bubbles2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/111-bubble2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/111-bubble2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/112-bubbles3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/112-bubbles3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/113-bubbles4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/113-bubbles4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/114-user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/114-user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/115-users.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/115-users.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/116-user-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/116-user-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/117-user-minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/117-user-minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/118-user-check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/118-user-check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/119-user-tie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/119-user-tie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/120-quotes-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/120-quotes-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/121-quotes-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/121-quotes-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/122-hour-glass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/122-hour-glass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/123-spinner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/123-spinner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/124-spinner2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/124-spinner2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/125-spinner3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/125-spinner3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/126-spinner4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/126-spinner4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/127-spinner5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/127-spinner5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/128-spinner6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/128-spinner6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/129-spinner7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/129-spinner7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/130-spinner8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/130-spinner8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/131-spinner9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/131-spinner9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/132-spinner10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/132-spinner10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/133-spinner11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/133-spinner11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/134-binoculars.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/134-binoculars.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/135-search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/135-search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/136-zoom-in.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/136-zoom-in.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/137-zoom-out.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/137-zoom-out.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/138-enlarge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/138-enlarge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/139-shrink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/139-shrink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/140-enlarge2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/140-enlarge2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/141-shrink2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/141-shrink2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/142-key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/142-key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/143-key2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/143-key2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/144-lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/144-lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/145-unlocked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/145-unlocked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/146-wrench.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/146-wrench.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/147-equalizer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/147-equalizer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/148-equalizer2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/148-equalizer2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/149-cog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/149-cog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/150-cogs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/150-cogs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/151-hammer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/151-hammer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/152-magic-wand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/152-magic-wand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/153-aid-kit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/153-aid-kit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/154-bug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/154-bug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/155-pie-chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/155-pie-chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/156-stats-dots.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/156-stats-dots.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/157-stats-bars.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/157-stats-bars.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/158-stats-bars2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/158-stats-bars2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/159-trophy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/159-trophy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/160-gift.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/160-gift.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/161-glass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/161-glass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/162-glass2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/162-glass2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/163-mug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/163-mug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/164-spoon-knife.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/164-spoon-knife.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/165-leaf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/165-leaf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/166-rocket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/166-rocket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/167-meter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/167-meter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/168-meter2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/168-meter2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/169-hammer2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/169-hammer2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/170-fire.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/170-fire.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/171-lab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/171-lab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/172-magnet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/172-magnet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/173-bin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/173-bin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/174-bin2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/174-bin2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/175-briefcase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/175-briefcase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/176-airplane.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/176-airplane.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/177-truck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/177-truck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/178-road.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/178-road.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/179-accessibility.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/179-accessibility.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/180-target.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/180-target.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/181-shield.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/181-shield.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/182-power.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/182-power.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/183-switch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/183-switch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/184-power-cord.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/184-power-cord.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/185-clipboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/185-clipboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/186-list-numbered.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/186-list-numbered.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/187-list.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/187-list.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/188-list2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/188-list2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/189-tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/189-tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/190-menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/190-menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/191-menu2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/191-menu2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/192-menu3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/192-menu3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/193-menu4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/193-menu4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/194-cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/194-cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/195-cloud-download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/195-cloud-download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/196-cloud-upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/196-cloud-upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/197-cloud-check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/197-cloud-check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/198-download2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/198-download2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/199-upload2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/199-upload2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/200-download3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/200-download3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/201-upload3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/201-upload3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/202-sphere.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/202-sphere.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/203-earth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/203-earth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/204-link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/204-link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/205-flag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/205-flag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/206-attachment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/206-attachment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/207-eye.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/207-eye.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/208-eye-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/208-eye-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/209-eye-minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/209-eye-minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/210-eye-blocked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/210-eye-blocked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/211-bookmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/211-bookmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/212-bookmarks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/212-bookmarks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/213-sun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/213-sun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/214-contrast.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/214-contrast.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/215-brightness-contrast.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/215-brightness-contrast.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/216-star-empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/216-star-empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/217-star-half.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/217-star-half.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/218-star-full.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/218-star-full.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/219-heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/219-heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/220-heart-broken.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/220-heart-broken.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/221-man.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/221-man.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/222-woman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/222-woman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/223-man-woman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/223-man-woman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/224-happy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/224-happy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/225-happy2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/225-happy2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/226-smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/226-smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/227-smile2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/227-smile2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/228-tongue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/228-tongue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/229-tongue2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/229-tongue2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/230-sad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/230-sad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/231-sad2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/231-sad2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/232-wink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/232-wink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/233-wink2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/233-wink2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/234-grin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/234-grin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/235-grin2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/235-grin2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/236-cool.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/236-cool.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/237-cool2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/237-cool2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/238-angry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/238-angry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/239-angry2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/239-angry2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/240-evil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/240-evil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/241-evil2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/241-evil2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/242-shocked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/242-shocked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/243-shocked2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/243-shocked2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/244-baffled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/244-baffled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/245-baffled2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/245-baffled2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/246-confused.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/246-confused.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/247-confused2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/247-confused2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/248-neutral.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/248-neutral.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/249-neutral2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/249-neutral2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/250-hipster.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/250-hipster.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/251-hipster2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/251-hipster2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/252-wondering.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/252-wondering.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/253-wondering2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/253-wondering2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/254-sleepy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/254-sleepy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/255-sleepy2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/255-sleepy2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/256-frustrated.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/256-frustrated.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/257-frustrated2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/257-frustrated2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/258-crying.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/258-crying.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/259-crying2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/259-crying2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/260-point-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/260-point-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/261-point-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/261-point-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/262-point-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/262-point-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/263-point-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/263-point-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/264-warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/264-warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/265-notification.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/265-notification.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/266-question.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/266-question.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/267-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/267-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/268-minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/268-minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/269-info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/269-info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/270-cancel-circle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/270-cancel-circle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/271-blocked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/271-blocked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/272-cross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/272-cross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/273-checkmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/273-checkmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/274-checkmark2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/274-checkmark2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/275-spell-check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/275-spell-check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/276-enter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/276-enter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/277-exit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/277-exit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/278-play2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/278-play2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/279-pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/279-pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/280-stop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/280-stop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/281-previous.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/281-previous.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/282-next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/282-next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/283-backward.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/283-backward.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/284-forward2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/284-forward2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/285-play3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/285-play3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/286-pause2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/286-pause2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/287-stop2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/287-stop2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/288-backward2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/288-backward2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/289-forward3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/289-forward3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/290-first.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/290-first.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/291-last.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/291-last.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/292-previous2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/292-previous2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/293-next2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/293-next2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/294-eject.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/294-eject.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/295-volume-high.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/295-volume-high.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/296-volume-medium.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/296-volume-medium.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/297-volume-low.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/297-volume-low.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/298-volume-mute.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/298-volume-mute.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/299-volume-mute2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/299-volume-mute2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/300-volume-increase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/300-volume-increase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/301-volume-decrease.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/301-volume-decrease.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/302-loop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/302-loop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/303-loop2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/303-loop2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/304-infinite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/304-infinite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/305-shuffle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/305-shuffle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/306-arrow-up-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/306-arrow-up-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/307-arrow-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/307-arrow-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/308-arrow-up-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/308-arrow-up-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/309-arrow-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/309-arrow-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/310-arrow-down-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/310-arrow-down-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/311-arrow-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/311-arrow-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/312-arrow-down-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/312-arrow-down-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/313-arrow-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/313-arrow-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/314-arrow-up-left2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/314-arrow-up-left2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/315-arrow-up2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/315-arrow-up2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/316-arrow-up-right2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/316-arrow-up-right2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/317-arrow-right2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/317-arrow-right2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/318-arrow-down-right2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/318-arrow-down-right2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/319-arrow-down2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/319-arrow-down2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/320-arrow-down-left2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/320-arrow-down-left2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/321-arrow-left2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/321-arrow-left2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/322-circle-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/322-circle-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/323-circle-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/323-circle-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/324-circle-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/324-circle-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/325-circle-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/325-circle-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/326-tab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/326-tab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/327-move-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/327-move-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/328-move-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/328-move-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/329-sort-alpha-asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/329-sort-alpha-asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/330-sort-alpha-desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/330-sort-alpha-desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/331-sort-numeric-asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/331-sort-numeric-asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/332-sort-numberic-desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/332-sort-numberic-desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/333-sort-amount-asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/333-sort-amount-asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/334-sort-amount-desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/334-sort-amount-desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/335-command.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/335-command.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/336-shift.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/336-shift.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/337-ctrl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/337-ctrl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/338-opt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/338-opt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/339-checkbox-checked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/339-checkbox-checked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/340-checkbox-unchecked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/340-checkbox-unchecked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/341-radio-checked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/341-radio-checked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/342-radio-checked2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/342-radio-checked2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/343-radio-unchecked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/343-radio-unchecked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/344-crop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/344-crop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/345-make-group.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/345-make-group.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/346-ungroup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/346-ungroup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/347-scissors.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/347-scissors.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/348-filter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/348-filter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/349-font.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/349-font.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/350-ligature.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/350-ligature.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/351-ligature2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/351-ligature2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/352-text-height.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/352-text-height.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/353-text-width.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/353-text-width.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/354-font-size.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/354-font-size.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/355-bold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/355-bold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/356-underline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/356-underline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/357-italic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/357-italic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/358-strikethrough.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/358-strikethrough.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/359-omega.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/359-omega.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/360-sigma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/360-sigma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/361-page-break.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/361-page-break.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/362-superscript.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/362-superscript.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/363-subscript.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/363-subscript.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/364-superscript2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/364-superscript2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/365-subscript2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/365-subscript2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/366-text-color.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/366-text-color.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/367-pagebreak.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/367-pagebreak.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/368-clear-formatting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/368-clear-formatting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/369-table.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/369-table.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/370-table2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/370-table2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/371-insert-template.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/371-insert-template.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/372-pilcrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/372-pilcrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/373-ltr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/373-ltr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/374-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/374-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/375-section.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/375-section.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/376-paragraph-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/376-paragraph-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/377-paragraph-center.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/377-paragraph-center.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/378-paragraph-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/378-paragraph-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/379-paragraph-justify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/379-paragraph-justify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/380-indent-increase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/380-indent-increase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/381-indent-decrease.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/381-indent-decrease.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/382-share.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/382-share.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/383-new-tab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/383-new-tab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/384-embed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/384-embed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/385-embed2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/385-embed2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/386-terminal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/386-terminal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/387-share2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/387-share2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/388-mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/388-mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/389-mail2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/389-mail2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/390-mail3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/390-mail3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/391-mail4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/391-mail4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/392-amazon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/392-amazon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/393-google.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/393-google.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/394-google2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/394-google2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/395-google3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/395-google3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/396-google-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/396-google-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/397-google-plus2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/397-google-plus2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/398-google-plus3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/398-google-plus3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/399-hangouts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/399-hangouts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/400-google-drive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/400-google-drive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/401-facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/401-facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/402-facebook2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/402-facebook2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/403-instagram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/403-instagram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/404-whatsapp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/404-whatsapp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/405-spotify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/405-spotify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/406-telegram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/406-telegram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/407-twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/407-twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/408-vine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/408-vine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/409-vk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/409-vk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/410-renren.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/410-renren.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/411-sina-weibo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/411-sina-weibo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/412-rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/412-rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/413-rss2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/413-rss2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/414-youtube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/414-youtube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/415-youtube2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/415-youtube2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/416-twitch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/416-twitch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/417-vimeo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/417-vimeo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/418-vimeo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/418-vimeo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/419-lanyrd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/419-lanyrd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/420-flickr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/420-flickr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/421-flickr2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/421-flickr2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/422-flickr3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/422-flickr3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/423-flickr4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/423-flickr4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/424-dribbble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/424-dribbble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/425-behance.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/425-behance.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/426-behance2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/426-behance2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/427-deviantart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/427-deviantart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/428-500px.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/428-500px.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/429-steam.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/429-steam.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/430-steam2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/430-steam2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/431-dropbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/431-dropbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/432-onedrive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/432-onedrive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/433-github.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/433-github.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/434-npm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/434-npm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/435-basecamp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/435-basecamp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/436-trello.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/436-trello.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/437-wordpress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/437-wordpress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/438-joomla.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/438-joomla.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/439-ello.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/439-ello.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/440-blogger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/440-blogger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/441-blogger2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/441-blogger2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/442-tumblr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/442-tumblr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/443-tumblr2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/443-tumblr2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/444-yahoo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/444-yahoo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/445-yahoo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/445-yahoo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/446-tux.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/446-tux.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/447-appleinc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/447-appleinc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/448-finder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/448-finder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/449-android.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/449-android.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/450-windows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/450-windows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/451-windows8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/451-windows8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/452-soundcloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/452-soundcloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/453-soundcloud2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/453-soundcloud2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/454-skype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/454-skype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/455-reddit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/455-reddit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/456-hackernews.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/456-hackernews.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/457-wikipedia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/457-wikipedia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/458-linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/458-linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/459-linkedin2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/459-linkedin2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/460-lastfm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/460-lastfm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/461-lastfm2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/461-lastfm2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/462-delicious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/462-delicious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/463-stumbleupon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/463-stumbleupon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/464-stumbleupon2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/464-stumbleupon2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/465-stackoverflow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/465-stackoverflow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/466-pinterest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/466-pinterest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/467-pinterest2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/467-pinterest2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/468-xing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/468-xing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/469-xing2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/469-xing2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/470-flattr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/470-flattr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/471-foursquare.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/471-foursquare.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/472-yelp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/472-yelp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/473-paypal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/473-paypal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/474-chrome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/474-chrome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/475-firefox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/475-firefox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/476-IE.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/476-IE.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/477-edge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/477-edge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/478-safari.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/478-safari.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/479-opera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/479-opera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/480-file-pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/480-file-pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/481-file-openoffice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/481-file-openoffice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/482-file-word.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/482-file-word.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/483-file-excel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/483-file-excel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/484-libreoffice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/484-libreoffice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/485-html-five.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/485-html-five.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/486-html-five2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/486-html-five2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/487-css3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/487-css3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/488-git.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/488-git.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/489-codepen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/489-codepen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/490-svg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/490-svg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/16px/491-IcoMoon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Icons/32px/491-IcoMoon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/profile/default_female.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/profile/default_male.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/Authorization.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/Conn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/Connection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Constants.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/Login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/Profile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/Signup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/UI.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style/home.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/home.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/home_loggedin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/home_loggedout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/profile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/profile_404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/signup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/signup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/terms_conditions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/verify_logged_in_user.php" />
+    </list>
+    <ignored path="friendbook.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="friendbook" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="home_loggedin.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/php/home_loggedin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6454389">
+              <caret line="153" column="55" selection-start-line="153" selection-start-column="55" selection-end-line="153" selection-end-column="55" />
+              <folding>
+                <element signature="e#6#86#0#PHP" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1453575697176" expanded="true" signature="9238:9287" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profile.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/profile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="206" column="34" selection-start-line="206" selection-start-column="34" selection-end-line="206" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style/home.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="365" column="21" selection-start-line="365" selection-start-column="21" selection-end-line="365" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Profile.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/Profile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+              <folding>
+                <marker date="1452095010953" expanded="true" signature="1552:1564" placeholder="INSERT INTO ..." />
+                <marker date="1452095010953" expanded="true" signature="1552:1609" placeholder="INSERT INTO ..." />
+                <marker date="1452095010953" expanded="true" signature="1552:1616" placeholder="INSERT INTO ..." />
+                <marker date="1452095010953" expanded="true" signature="1552:1618" placeholder="INSERT INTO ..." />
+                <marker date="1452095010953" expanded="true" signature="1552:1773" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/Login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="162" column="68" selection-start-line="162" selection-start-column="68" selection-end-line="162" selection-end-column="68" />
+              <folding>
+                <element signature="e#7#88#0#PHP" expanded="true" />
+                <marker date="1451941328923" expanded="true" signature="4576:4589" placeholder="INSERT INTO ..." />
+                <marker date="1451941328923" expanded="true" signature="4576:4656" placeholder="INSERT INTO ..." />
+                <marker date="1451941328923" expanded="true" signature="4576:4658" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="96" column="50" selection-start-line="96" selection-start-column="50" selection-end-line="96" selection-end-column="50" />
+              <folding>
+                <element signature="e#7#98#0#PHP" expanded="true" />
+                <marker date="1452180025989" expanded="true" signature="4544:4594" placeholder="INSERT INTO ..." />
+                <marker date="1452180025989" expanded="true" signature="5558:5610" placeholder="SELECT * FRO..." />
+                <marker date="1452180025989" expanded="true" signature="6359:6411" placeholder="SELECT * FRO..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Signup.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/Signup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.346153">
+              <caret line="211" column="32" selection-start-line="211" selection-start-column="32" selection-end-line="211" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Conn.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/Conn.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UI.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/UI.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="230" column="61" selection-start-line="230" selection-start-column="61" selection-end-line="230" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ui_functions/ui_functions1.php" />
+        <option value="$PROJECT_DIR$/signup_login_logout_files/signup_login_functions.php" />
+        <option value="$PROJECT_DIR$/home_loggedout.php" />
+        <option value="$PROJECT_DIR$/signup_login_logout_files/signup.php" />
+        <option value="$PROJECT_DIR$/signup_login_logout_files/signup.js" />
+        <option value="$PROJECT_DIR$/constants/constants.php" />
+        <option value="$PROJECT_DIR$/home.php" />
+        <option value="$PROJECT_DIR$/models/Database.php" />
+        <option value="$PROJECT_DIR$/terms_conditions.php" />
+        <option value="$PROJECT_DIR$/models/Connection.php" />
+        <option value="$PROJECT_DIR$/js/signup.js" />
+        <option value="$PROJECT_DIR$/models/Conn.php" />
+        <option value="$PROJECT_DIR$/ui_functions/ui_functions_loggedout.php" />
+        <option value="$PROJECT_DIR$/php/logout.php" />
+        <option value="$PROJECT_DIR$/php/home.php" />
+        <option value="$PROJECT_DIR$/php/signup.php" />
+        <option value="$PROJECT_DIR$/php/terms_conditions.php" />
+        <option value="$PROJECT_DIR$/models/Authorization.php" />
+        <option value="$PROJECT_DIR$/php/home_loggedout.php" />
+        <option value="$PROJECT_DIR$/php/verify_logged_in_user.php" />
+        <option value="$PROJECT_DIR$/php/profile_404.php" />
+        <option value="$PROJECT_DIR$/php/Constants.php" />
+        <option value="$PROJECT_DIR$/models/Login.php" />
+        <option value="$PROJECT_DIR$/php/login.php" />
+        <option value="$PROJECT_DIR$/models/Profile.php" />
+        <option value="$PROJECT_DIR$/style/home.css" />
+        <option value="$PROJECT_DIR$/models/UI.php" />
+        <option value="$PROJECT_DIR$/models/Signup.php" />
+        <option value="$PROJECT_DIR$/models/User.php" />
+        <option value="$PROJECT_DIR$/php/profile.php" />
+        <option value="$PROJECT_DIR$/php/home_loggedin.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>File Watchers</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SQL</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\friendbook\php" />
+      <recent name="C:\wamp\www\friendbook\js" />
+      <recent name="C:\wamp\www\friendbook\pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.Signup.php">
+    <configuration default="false" name="Signup.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/models/Signup.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.Signup.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.Signup.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Joe\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="273962f2-c0fe-4884-ae0a-122f1997cce1" name="Default" comment="" />
+      <created>1441600358498</created>
+      <option name="number" value="Default" />
+      <updated>1441600358498</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Created friendbook">
+      <created>1443672043002</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1443672043002</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14010416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299075" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299075" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3299075" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299075" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39979446" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299075" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299075" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295099" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299075" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299075" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39979446" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299075" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299075" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299075" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS Styles" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299075" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14010416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295099" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created friendbook" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created friendbook" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="32" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/php/signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/home_loggedout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="56" selection-start-line="61" selection-start-column="56" selection-end-line="61" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/signup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="106" column="16" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="26" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/home_loggedout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="56" selection-start-line="61" selection-start-column="56" selection-end-line="61" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/signup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="106" column="16" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="26" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/home_loggedout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="60" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/signup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="106" column="16" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/home_loggedout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/SPL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38293216">
+          <caret line="463" column="17" selection-start-line="463" selection-start-column="17" selection-end-line="463" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\Datbase">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\Datbase</OriginalElement>
+          <nodes>
+            <node x="" y="">\Datbase</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="45.0" y="18.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\Signup">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\Signup</OriginalElement>
+          <nodes>
+            <node x="" y="">\Signup</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9999999999999997" x="93.0" y="32.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5393873">
+          <caret line="1722" column="9" selection-start-line="1722" selection-start-column="9" selection-end-line="1722" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.71991247">
+          <caret line="219" column="17" selection-start-line="219" selection-start-column="17" selection-end-line="219" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms2.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.51276594">
+          <caret line="408" column="16" selection-start-line="408" selection-start-column="16" selection-end-line="408" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.77321815">
+          <caret line="530" column="16" selection-start-line="530" selection-start-column="16" selection-end-line="530" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core_d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24507658">
+          <caret line="341" column="18" selection-start-line="341" selection-start-column="18" selection-end-line="341" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/pcre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="47.73077">
+          <caret line="82" column="9" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3404255">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_defines.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48777777">
+          <caret line="1180" column="8" selection-start-line="1180" selection-start-column="8" selection-end-line="1180" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.846153">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.807693">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/signup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="114" selection-start-line="34" selection-start-column="114" selection-end-line="34" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/terms_conditions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37527353">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/home_loggedout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="109" column="27" selection-start-line="30" selection-start-column="20" selection-end-line="109" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33297873">
+          <caret line="126" column="18" selection-start-line="126" selection-start-column="18" selection-end-line="126" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/verify_logged_in_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.461538">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Authorization.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.0">
+          <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/profile_404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.307693">
+          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.846153">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Conn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+          <folding>
+            <marker date="1452095010953" expanded="true" signature="1552:1564" placeholder="INSERT INTO ..." />
+            <marker date="1452095010953" expanded="true" signature="1552:1609" placeholder="INSERT INTO ..." />
+            <marker date="1452095010953" expanded="true" signature="1552:1616" placeholder="INSERT INTO ..." />
+            <marker date="1452095010953" expanded="true" signature="1552:1618" placeholder="INSERT INTO ..." />
+            <marker date="1452095010953" expanded="true" signature="1552:1773" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="365" column="21" selection-start-line="365" selection-start-column="21" selection-end-line="365" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="206" column="34" selection-start-line="206" selection-start-column="34" selection-end-line="206" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="162" column="68" selection-start-line="162" selection-start-column="68" selection-end-line="162" selection-end-column="68" />
+          <folding>
+            <element signature="e#7#88#0#PHP" expanded="true" />
+            <marker date="1451941328923" expanded="true" signature="4576:4589" placeholder="INSERT INTO ..." />
+            <marker date="1451941328923" expanded="true" signature="4576:4656" placeholder="INSERT INTO ..." />
+            <marker date="1451941328923" expanded="true" signature="4576:4658" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/UI.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="230" column="61" selection-start-line="230" selection-start-column="61" selection-end-line="230" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="96" column="50" selection-start-line="96" selection-start-column="50" selection-end-line="96" selection-end-column="50" />
+          <folding>
+            <element signature="e#7#98#0#PHP" expanded="true" />
+            <marker date="1452180025989" expanded="true" signature="4544:4594" placeholder="INSERT INTO ..." />
+            <marker date="1452180025989" expanded="true" signature="5558:5610" placeholder="SELECT * FRO..." />
+            <marker date="1452180025989" expanded="true" signature="6359:6411" placeholder="SELECT * FRO..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.346153">
+          <caret line="211" column="32" selection-start-line="211" selection-start-column="32" selection-end-line="211" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/home_loggedin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6454389">
+          <caret line="153" column="55" selection-start-line="153" selection-start-column="55" selection-end-line="153" selection-end-column="55" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1453575697176" expanded="true" signature="9238:9287" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
